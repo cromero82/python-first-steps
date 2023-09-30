@@ -15,5 +15,5 @@ def number_is_cousin(number_to_evaluate):
 
 
 # call function with two break line after
-is_cousin = number_is_cousin(4)
+is_cousin = number_is_cousin(7)
 print(str(is_cousin))
